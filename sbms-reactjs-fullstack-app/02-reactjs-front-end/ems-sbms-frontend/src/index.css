@@ -1,0 +1,59 @@
+.dataone{
+    font-size: 23px;
+}
+
+.datatwo{
+    text-align: center;
+    color: darkblue;
+}
+
+.footer{
+    position: absolute;
+    bottom: 0%;
+    width: 100%;
+    text-align: center;
+    height: 50px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}
+
+.headingone{
+    text-align: center;
+    color: darkblue;
+}
+
+.headingtwo{
+    text-align: center;
+    color: darkorchid;
+}
+
+.listDept{
+    color: blueviolet;
+    text-align: center;
+}
+
+.regDept{
+    color: brown;
+    text-align: center;
+}
+
+.updateDept{
+    color: blueviolet;
+    text-align: center;
+}
+
+.empList{
+    text-align: center;
+    color: darkgreen;
+}
+
+.empReg{
+    text-align: center;
+    color: darkblue;
+}
+
+.empUpdate{
+    text-align: center;
+    color: darkgreen;
+}
